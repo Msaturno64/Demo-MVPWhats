@@ -1,0 +1,8 @@
+🌟 Estás en el Menú Principal 🌟
+Para continuar, elige una de las siguientes opciones:
+
+🔹 Opción 1 - 📋 Menú
+🔹 Opción 2 - 💸 Ofertas
+🔹 Opción 3 - ❓ Consultas
+
+🔹 Opción 0 - 🚪 Salir

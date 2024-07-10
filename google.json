@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sheet-venta",
+  "private_key_id": "1d227c08da53efa871fe7df52247c06cc1d324aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNYAXxyGNJChZd\nL1luSLefzfUlOFpZCbHVzTMK1pwlpXWGJCxc8Q7Ah0YVU+SrWhPvbRukouhiY2IZ\nly7pfmaFv/sTtf89rd1V/hor+kYRwXfdNSv+gKPXYlppCog6LtqYay0SVMHNiZ/u\n9lSNMXcLNUdJ/Vk2a4lZD8oJsSg5Ro6aTOppzSPxV0KmySwsrPTmjCGI7vudGqcL\nffLGyNG9cTaBJdN2RpmQnX+PomYolXjzJjW8pCRCc0Nov3gdqjkG8ycqmGkappX2\nCpqFpjJiaOWfV+ev9xinXw22pN0Ae6+qpDJ7bb94uLj1/Bn4gMHzq9mNCrCA0PVD\n6pCt4v3xAgMBAAECggEAEpL50VKtbBMopPfdz47DELBjWKDpRuk3YgiYx6+o1/Id\nbWrYb6AblJ0HYRwWb8rfR7BR/N4A72O2oRgzwB6pmLTIDpHPX52EXufIJ9cO6Zcv\nnIbXukDvJdEkL8t/OOfjkZUL3VRjYg/th4KpcKBFzcfdRoX5FhC8D3J79CFyFlqE\n1LVQRUsVSOFwnC/zXfrsA9g1Njuz7/LrkPHTaH6Z1AH244kEpx4tCe/0gVwU/aoA\nbUN5uMHdtCO0CRMTvmSahXcaHmEz6suOkGv56kMnRbGZgn95a5Z54hkGauiTGKOT\nM0Sha+nQ6Y/8I6CdeI4r6CWi8IjAZfmxpzJhigiG6wKBgQD25vNMO2ertrfc2Bed\nVfO9NSPAvctWRhUfhwB/lxuXx7oy7CVQUklOLdYnorLAj3lYVfAID4tGp5EHpAFs\nzbPoMhvc00a9zE1X/mQ80Q9fb86Fwr9g7ITs8y94CAtosSRxyb3DS601pyd7M/wJ\nxfVfgfMi/gAjZWYoc3Z3fw3/UwKBgQDU8Vgt2fFY7negXJSYmIBr8Uq7dgj/MwkI\nzRWVAVx1s98+X0Tu2lszAcH2IoK/UJtiuIblUGX6QxDuA0crPwQtMiZTg0QuRog7\nkjqCyCFOn9cdHslhATL59YX697qwh845sEZAocmdsRPp+hZNZ/N9pAmBWOopMH2K\nFO5pg74ZKwKBgHNZbq1cy5Bjqv6YTmAJOfhZjTyM7yR9VX0HO2pglFmSzCDiRoSC\nDRFjRLv7vPtNjGmCrMN3T6BQxOcG7kuAxt5iGrZOVqxxeGj1xqrLGR2DRL8lPvfv\nSCLTcofnaj0dFWO71tYY0vFQCJf8r3F5dKuMMKVWeYYP52xalSw6xbVVAoGBAJJT\n4n9nk6TEAeptlCMkMKN8ZRlarCYKAPxOSbViARJU72Sh/PGRlTgAzjOAVY54Kr71\nBKWR0PHfokOcdwxtukYAfzvGKVUPXNBq1NBIDDNGPYEiRcnmFAyWPmJOV7i1Ke6U\nhkIlqzE0nPWcyDSa6UR+M5Xx7r8tNidr6MUTJc+PAoGAUa88aVr00Ez2wEVyPztq\nMGL2m8FSDgX1i3P8t6D3ADe+PM3TlObiP/QPn0t3NTUbl6F3JGS+lftXckVvmPlN\nE7IZhuNgoc6vZ0T2Bq7P+UAy5D3PX0UJRfKtG25fva0QQtCgMqzD74c1wds2WKu4\nvDn6QWXYO/BWqN8RCj630Qk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ventaschatbot@sheet-venta.iam.gserviceaccount.com",
+  "client_id": "101339062132177759002",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ventaschatbot%40sheet-venta.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
