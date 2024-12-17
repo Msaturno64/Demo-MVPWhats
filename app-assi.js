@@ -33,7 +33,7 @@ const saveData = (data) => {
 let { blockedNumbers, interactionCounts } = loadData();
 
 // Lista de administradores
-const adminNumbers = ["5493512413236"]; // Añade aquí los números de los administradores
+const adminNumbers = [""]; // Añade aquí los números de los administradores
 
 // Límites de interacciones
 const TEXT_AUDIO_LIMIT = 20;
