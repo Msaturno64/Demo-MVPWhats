@@ -11,7 +11,7 @@ const openai = new OpenAI({
     apiKey: openaiApiKey,
 });
 
-const assistantId = 'asst_TJ8uZ8AvLgTj7EeFcOTS8hI3';
+const assistantId = '';
 
 // Función para obtener la ruta del archivo de datos de un usuario específico
 const getUserDataPath = (userId) => {
